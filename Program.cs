@@ -11,10 +11,14 @@ namespace Exam70_483
 
         static void Main()
         {
-         
-           // TestParallelInvoke.RunTestParallellInvoke();
-            TestParallelForEach.RunTestParallelForEach();
 
+            // TestParallelInvoke.RunTestParallellInvoke();
+            // TestParallelForEach.RunTestParallelForEach();
+            //  TestParallelFor.RunParallelFor();
+            // BreakingOutOfParallelForLoop.RunBreakingOutOfParallelForLoop();
+            // TestTaskReturningValue.RunTaskReturningValue();
+            TestTaskWaitAll.RuntTaskWaitAll();
+                
 
 
         }
