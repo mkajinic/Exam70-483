@@ -17,8 +17,11 @@ namespace Exam70_483
             //  TestParallelFor.RunParallelFor();
             // BreakingOutOfParallelForLoop.RunBreakingOutOfParallelForLoop();
             // TestTaskReturningValue.RunTaskReturningValue();
-            TestTaskWaitAll.RuntTaskWaitAll();
-                
+            //TestTaskWaitAll.RuntTaskWaitAll();
+            // TestContinuationTasks.RunTestContinuationTask();
+            // TestContinuationTasks.RunTestContinueWith();
+            TestThreadAbortWithSharedFlag.RunThreadAbortWithSharedFlag();
+
 
 
         }
