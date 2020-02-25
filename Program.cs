@@ -22,7 +22,8 @@ namespace Exam70_483
             // TestContinuationTasks.RunTestContinueWith();
             //  TestThreadAbortWithSharedFlag.RunThreadAbortWithSharedFlag();
             // TestThreadContext.RunThreadContext();
-            TestThreadPools.RunThereadPools();
+            //TestThreadPools.RunThereadPools();
+            TestBlockingCollection.RunBlockingCollection();
 
 
 
