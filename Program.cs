@@ -20,7 +20,8 @@ namespace Exam70_483
             //TestTaskWaitAll.RuntTaskWaitAll();
             // TestContinuationTasks.RunTestContinuationTask();
             // TestContinuationTasks.RunTestContinueWith();
-            TestThreadAbortWithSharedFlag.RunThreadAbortWithSharedFlag();
+            //  TestThreadAbortWithSharedFlag.RunThreadAbortWithSharedFlag();
+            TestThreadContext.RunThreadContext();
 
 
 
