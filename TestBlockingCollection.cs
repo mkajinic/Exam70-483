@@ -42,7 +42,6 @@ namespace Exam70_483
                     }
                     catch (InvalidOperationException)
                     {
-
                      
                     }
                 }
