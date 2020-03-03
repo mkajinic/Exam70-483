@@ -26,7 +26,9 @@ namespace Exam70_483
             // TestBlockingCollection.RunBlockingCollection();
             //  TestConcurent.RunConcurentBag();
             //TestLocking.RunTestLocking(0,50000000);
-            TestSensibileLocking.RunTestLocking2(0, 50000000);
+            // TestSensibileLocking.RunTestLocking2(0, 50000000);
+            // TestSequentialLocking.RunTestSequentialLocks();
+            TestCancelATask.RunTestCanacelTask();
 
 
 
