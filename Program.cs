@@ -32,7 +32,12 @@ namespace Exam70_483
             //  TestForLoops.RunTestForLoops();
             // TestIterateWithFor.RunIterateWithFor();
             // TestSwitchConstruction.SwithcConstruction();
-            TestExpressionEvaluation.RunExpressionEvaluation();
+            //   TestExpressionEvaluation.RunExpressionEvaluation();
+            //  TestCreateDelegatesLambdaExpresssions.RunCreateDelegates();
+            //  TestClosuresLambdaDelegates.RunClosures();
+            // TestExceptionObject.RunExceptionObject();
+            TestCustomExceptions.RunCustomExceptions();
+
 
 
         }
