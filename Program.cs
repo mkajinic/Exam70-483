@@ -39,7 +39,8 @@ namespace Exam70_483
             //TestCustomExceptions.RunCustomExceptions();
             //_2TestValueAndReferenceTypes.RunTestValueAndReferenceTypes();
             //_2TestStructure.RunTestStructure();
-            _2TestGenericTypes.RunGenericTypes();
+            //_2TestGenericTypes.RunGenericTypes();
+            _2_1_IndexingOnStrings.RunIndexingOnStrings();
 
 
 
