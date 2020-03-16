@@ -40,7 +40,8 @@ namespace Exam70_483
             //_2TestValueAndReferenceTypes.RunTestValueAndReferenceTypes();
             //_2TestStructure.RunTestStructure();
             //_2TestGenericTypes.RunGenericTypes();
-            _2_1_IndexingOnStrings.RunIndexingOnStrings();
+            // _2_1_IndexingOnStrings.RunIndexingOnStrings();
+            _2_1_Test_MethodOverriding.RunMethodOverriding();
 
 
 
