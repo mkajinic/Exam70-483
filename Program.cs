@@ -37,8 +37,9 @@ namespace Exam70_483
             //  TestClosuresLambdaDelegates.RunClosures();
             // TestExceptionObject.RunExceptionObject();
             //TestCustomExceptions.RunCustomExceptions();
-            _2TestValueAndReferenceTypes.RunTestValueAndReferenceTypes();
-
+            //_2TestValueAndReferenceTypes.RunTestValueAndReferenceTypes();
+            //_2TestStructure.RunTestStructure();
+            _2TestGenericTypes.RunGenericTypes();
 
 
 

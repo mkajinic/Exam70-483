@@ -35,7 +35,8 @@ namespace Exam70_483
 
 
 
-
+            //class variables are managed by reference
+            //xClass and yClass referr to the same object
             ClassStore xc, yc;
             yc = new ClassStore();
             yc.Data = 99;
