@@ -43,6 +43,7 @@ namespace Exam70_483
             //to provide custom printing behavior for an Invoice
             public override void DoPrint()
             {
+                base.DoPrint();
                 Console.WriteLine("Hello from DoPrint in Prepaid Invoice");
             }
 
