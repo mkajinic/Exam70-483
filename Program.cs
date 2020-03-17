@@ -43,8 +43,8 @@ namespace Exam70_483
             //_2TestGenericTypes.RunGenericTypes();
             // _2_1_IndexingOnStrings.RunIndexingOnStrings();
             //  _2_1_Test_MethodOverriding.RunMethodOverriding();
-            _2_2_TestBoxingAndUnboxing.RunBoxingAndUnboxing();
-
+            // _2_2_TestBoxingAndUnboxing.RunBoxingAndUnboxing();
+            _2_2_TestTypeConversion.RunTypeConversion();
 
         }
 
