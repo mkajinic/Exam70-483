@@ -52,8 +52,13 @@ namespace Exam70_483
             // _2_2_TestBoxingAndUnboxing.RunBoxingAndUnboxing();
             //_2_2_TestTypeConversion.RunTypeConversion();
             //  _2_2_TestInteractingWithExcel.RunInteractionWithExcel();
-            _2_3_TestAccessorMethods.RunAccessorMethods();
-
+            //  _2_3_TestAccessorMethods.RunAccessorMethods();
+            //  _2_2_TestIComparable.RunIComparable();
+            // _2_2_TestGetEnumerator.RunGetEnumerator();
+            // _2_2_TestMakingObjectEnumerable.RunObjectEnumerable();
+            //   _2_4_TestEnumeratorsWithYield.RunYield();
+            //  _2_4_TestIDisposable.RunIDisposable();
+            _2_5_TestCreatingAttributeClass.RunAttributeClass();
 
            
 
