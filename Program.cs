@@ -10,11 +10,7 @@ namespace Exam70_483
     class Program
     {
 
-      
-
-       
-
-
+     
         static void Main()
         {
 
@@ -58,9 +54,9 @@ namespace Exam70_483
             // _2_2_TestMakingObjectEnumerable.RunObjectEnumerable();
             //   _2_4_TestEnumeratorsWithYield.RunYield();
             //  _2_4_TestIDisposable.RunIDisposable();
-            _2_5_TestCreatingAttributeClass.RunAttributeClass();
-
-           
+            // _2_5_TestCreatingAttributeClass.RunAttributeClass();
+          //  _2_5_TestFindComponents.RunFindComponents();
+            _2_5_TestUsingLINQ.RunLINQquery();
 
 
 
