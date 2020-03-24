@@ -54,12 +54,12 @@ namespace Exam70_483
             // _2_2_TestMakingObjectEnumerable.RunObjectEnumerable();
             //   _2_4_TestEnumeratorsWithYield.RunYield();
             //  _2_4_TestIDisposable.RunIDisposable();
+
             // _2_5_TestCreatingAttributeClass.RunAttributeClass();
-          //  _2_5_TestFindComponents.RunFindComponents();
-            _2_5_TestUsingLINQ.RunLINQquery();
-
-
-
+            //  _2_5_TestFindComponents.RunFindComponents();
+            // _2_5_TestUsingLINQ.RunLINQquery();
+            // _2_5_TestLambdaExpressionTree.RunLambdaTree();
+            _2_5_TestAssemblyObject.RunAssembly();
 
 
 
