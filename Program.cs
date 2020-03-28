@@ -60,8 +60,9 @@ namespace Exam70_483
             // _2_5_TestUsingLINQ.RunLINQquery();
             // _2_5_TestLambdaExpressionTree.RunLambdaTree();
             //_2_5_TestAssemblyObject.RunAssembly();
-            _2_5_TestPropertyInfo.RunPropertyInfo();
-
+            // _2_5_TestPropertyInfo.RunPropertyInfo();
+            //  _2_5_TestMethodInfo.RunMethodInfo();
+            _2_7_StringBuilder.RunStringBuilder();
 
 
 
