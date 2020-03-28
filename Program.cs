@@ -62,9 +62,10 @@ namespace Exam70_483
             //_2_5_TestAssemblyObject.RunAssembly();
             // _2_5_TestPropertyInfo.RunPropertyInfo();
             //  _2_5_TestMethodInfo.RunMethodInfo();
-            _2_7_StringBuilder.RunStringBuilder();
-
-
+            // _2_7_StringBuilder.RunStringBuilder();
+            // _2_7_TestStringWriterStringReader.RunStringWriterAndReader();
+            // _2_7_TestStringWriterStringReader.RunStringReader();
+            _2_7_TestIndexOfandSubstring.RunIndexOfandSubstring();
 
 
 
