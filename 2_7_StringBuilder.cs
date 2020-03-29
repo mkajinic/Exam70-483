@@ -29,7 +29,7 @@ namespace Exam70_483
             Console.WriteLine(amtMsg);
 
 
-            StringBuilder ind = new StringBuilder("Hello World!!", 50);
+            StringBuilder ind = new StringBuilder("Hello  People", 50);
             ind.Insert(5, " C#");
 
             Console.WriteLine(ind);

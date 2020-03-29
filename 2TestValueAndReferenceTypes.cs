@@ -40,11 +40,16 @@ namespace Exam70_483
             ClassStore xc, yc;
             yc = new ClassStore();
             yc.Data = 99;
-            xc = yc;
-            xc.Data = 100;
+            Console.WriteLine("\nyClass first: {0}", yc.Data);
 
-            Console.WriteLine("xClasst: {0}", xc.Data);
-            Console.WriteLine("yClass: {0}", yc.Data);
+            xc = yc;
+            Console.WriteLine("xClasst first: {0}", xc.Data);
+
+            xc.Data = 100;
+            Console.WriteLine("\nClass and yClass referr to the same object {0} as x and {1} as y", xc.Data, yc.Data);
+
+            Console.WriteLine("\nxClass after : {0}", xc.Data);
+            Console.WriteLine("yClass after: {0}", yc.Data);
 
 
         }
