@@ -44,7 +44,7 @@ namespace Exam70_483
 
             IntArrayWrapper x = new IntArrayWrapper();
             x[1] = 99;
-            Console.WriteLine("Indexed properties"+ x[1]);
+            Console.WriteLine("Indexed properties "+ x[1]);
 
             Console.ReadLine();
         }

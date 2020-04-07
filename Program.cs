@@ -40,7 +40,7 @@ namespace Exam70_483
             // TestExceptionObject.RunExceptionObject();
             //TestCustomExceptions.RunCustomExceptions();
 
-           // _2TestValueAndReferenceTypes.RunTestValueAndReferenceTypes();
+            // _2TestValueAndReferenceTypes.RunTestValueAndReferenceTypes();
             //_2TestStructure.RunTestStructure();
             //_2TestGenericTypes.RunGenericTypes();
             // _2_1_IndexingOnStrings.RunIndexingOnStrings();
@@ -67,9 +67,14 @@ namespace Exam70_483
             // _2_7_TestStringWriterStringReader.RunStringReader();
             //  _2_7_TestIndexOfandSubstring.RunIndexOfandSubstring();
             //  _2_7_TestFormatStrings.RunFormatString();
-            _2_TestSummary.RunSummary();
+            // _2_TestSummary.RunSummary();
 
 
+            //_3_1TestCreatingJSON.RunCreatingJSON();
+            // _3_1TestValidatingJSON.RunValidateJSON();
+            // _3_1_ValidateRegularExpressions.RunRegularExpressions();
+            // _3_2_TestAESEncyrption.RunEncriptionAndDecription();
+            _3_2_TestSHA2Hashing.RunSHA2();
 
 
         }
