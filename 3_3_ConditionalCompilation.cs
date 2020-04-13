@@ -28,7 +28,16 @@ namespace Exam70_483
                 Title = title;
                 Lenght = lenght;
 
- #if DIAGNOSTICS
+#if TERSE
+            Console.WriteLine("Hello");
+#elif NORMAL
+            Console.WriteLine("Hello Meggie");
+#elif CHATTY
+            Console.WriteLine("Hello Meggie. What's the story");
+#endif
+
+
+#if DIAGNOSTICS && Debug
                 Console.WriteLine("mUSIC TRACT CREATED: {0} ", this.ToString());
  #endif
 
