@@ -74,7 +74,8 @@ namespace Exam70_483
             // _3_1TestValidatingJSON.RunValidateJSON();
             // _3_1_ValidateRegularExpressions.RunRegularExpressions();
             // _3_2_TestAESEncyrption.RunEncriptionAndDecription();
-            _3_2_TestSHA2Hashing.RunSHA2();
+            //_3_2_TestSHA2Hashing.RunSHA2();
+            _3_3_ConditionalCompilation.RunConditionalCompilation();
 
 
         }
