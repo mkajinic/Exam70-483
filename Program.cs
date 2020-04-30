@@ -80,7 +80,8 @@ namespace Exam70_483
             //_3_5_TestDebugAndTrace.RunAssert();
 
 
-            _4_1_TestFileIO.RunTestIO();
+            // _4_1_TestFileIO.RunTestIO();
+            _4_2_TestQueryAndDataManipulationLINQ.RunLINQQuery();
         }
 
 

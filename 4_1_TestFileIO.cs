@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.IO;
 using System.Linq;
+using System.Net;
 
 namespace Exam70_483
 {
@@ -151,6 +152,23 @@ namespace Exam70_483
 
             #endregion
 
+
+            #region WebRequest
+            Console.WriteLine("****Web request***");
+
+            WebRequest webRequest = WebRequest.Create("https://www.microsoft.com");
+            WebResponse webResponse = webRequest.GetResponse();
+
+            using (StreamReader responseReader = new StreamReader(webResponse.GetResponseStream())) 
+            {
+                string siteText = responseReader.ReadToEnd();
+                Console.WriteLine(siteText);
+            }
+
+
+
+
+            #endregion
             Console.ReadLine();
 
 
