@@ -81,7 +81,8 @@ namespace Exam70_483
 
 
             // _4_1_TestFileIO.RunTestIO();
-            _4_2_TestQueryAndDataManipulationLINQ.RunLINQQuery();
+            // _4_2_TestQueryAndDataManipulationLINQ.RunLINQQuery();
+            _4_3_TestModifyDataXMLwithLINQ.RunXMLwithLINQ();
         }
 
 
